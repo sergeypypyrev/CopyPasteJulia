@@ -22,7 +22,3 @@ Copy/paste files or text from one device to another.
 1. Open http://your-host-name:8000/ in several browsers (may be on different devices).
 
 Now whenever user changes text or file in one browser - the same text or file will be available in all other browsers.
-
-# Demo
-
-Live demo is available at http://demo.pypyrev.com/. Open it in several browsers (may be on different devices). Whenever user changes text or file in one browser - the same text or file will be available in all other browsers.
